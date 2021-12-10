@@ -1,0 +1,13 @@
+h1 {
+    background-color: rgb(54, 54, 54, 0.25);
+}
+
+h6 {
+    font-size: 8px;
+    font-weight: 100;
+}
+
+.img_food {
+    height: auto;
+    width: 500px;
+}
